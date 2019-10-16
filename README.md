@@ -4,7 +4,8 @@ This project intends to detect Medicare fraud using machine learning algorithms.
 
 Links to datasets:
 
-1. Label data\
+1. Label data
+
    Exclusion list of providers that committed Medicare fraud: https://oig.hhs.gov/exclusions/exclusions_list.asp
 
 2. Provider data
